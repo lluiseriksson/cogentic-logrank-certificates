@@ -1,0 +1,8 @@
+name = "CogenticLogRank"
+version = "1.0.0"
+defaultTargets = ["CogenticLogRank"]
+moreLeanArgs = ["-j", "1"]
+
+[[lean_lib]]
+name = "CogenticLogRank"
+roots = ["CogenticLogRank"]

@@ -1,0 +1,41 @@
+{
+  "schema": "LOGRANK-COGENTIC-CERT-1.0",
+  "mode": "nw_recursion_and_penalty_cert",
+  "cert_id": "m4_nw_fine_penalty_grid_17pts",
+  "C0": 238,
+  "eps_q": "1/200000",
+  "t_probes": [
+    "-1",
+    "-7/8",
+    "-3/4",
+    "-5/8",
+    "-1/2",
+    "-3/8",
+    "-1/4",
+    "-1/8",
+    "0",
+    "1/8",
+    "1/4",
+    "3/8",
+    "1/2",
+    "5/8",
+    "3/4",
+    "7/8",
+    "1"
+  ],
+  "rank_k_samples": [
+    4,
+    16,
+    256,
+    4096
+  ],
+  "claimed_C_prime": 178500,
+  "claimed_max_g_prime": "-1",
+  "claimed_min_midpoint_excess": "1/1024",
+  "claimed_orbit_lengths": [
+    3,
+    7,
+    16,
+    26
+  ]
+}

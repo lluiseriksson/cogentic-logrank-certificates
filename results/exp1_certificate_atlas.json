@@ -1,0 +1,237 @@
+{
+  "count": 16,
+  "certificates": [
+    {
+      "cert_id": "m1_bool_eq4_third_moment",
+      "mode": "boolean_sign_third_moment_cert",
+      "mean_ms": 1.285,
+      "summary": {
+        "verified": true,
+        "mode": "boolean_sign_third_moment_cert",
+        "rank_S": 4,
+        "bias_mu0": "1/2",
+        "third_moment_energy": "3/2",
+        "eq16_max_residual": "0"
+      }
+    },
+    {
+      "cert_id": "m1_bool_eq8_third_moment",
+      "mode": "boolean_sign_third_moment_cert",
+      "mean_ms": 16.937,
+      "summary": {
+        "verified": true,
+        "mode": "boolean_sign_third_moment_cert",
+        "rank_S": 8,
+        "bias_mu0": "3/4",
+        "third_moment_energy": "21/8",
+        "eq16_max_residual": "0"
+      }
+    },
+    {
+      "cert_id": "m1_bool_hadamard4_asym_u1",
+      "mode": "boolean_sign_third_moment_cert",
+      "mean_ms": 1.28,
+      "summary": {
+        "verified": true,
+        "mode": "boolean_sign_third_moment_cert",
+        "rank_S": 4,
+        "bias_mu0": "1/4",
+        "third_moment_energy": "3/2",
+        "eq16_max_residual": "0"
+      }
+    },
+    {
+      "cert_id": "m1_rademacher_barrier_8x8",
+      "mode": "boolean_sign_third_moment_cert",
+      "mean_ms": 2.15,
+      "summary": {
+        "verified": true,
+        "mode": "boolean_sign_third_moment_cert",
+        "rank_S": 4,
+        "bias_mu0": "1/2",
+        "third_moment_energy": "0",
+        "eq16_max_residual": "3"
+      }
+    },
+    {
+      "cert_id": "m2_slice_bregman_eq4_nonzero",
+      "mode": "quadratic_slice_bregman_cert",
+      "mean_ms": 0.425,
+      "summary": {
+        "verified": true,
+        "mode": "quadratic_slice_bregman_cert",
+        "tau_w": "3/4",
+        "hollow_energy": "3/32",
+        "bregman_div": "1/4",
+        "commutator_gap": "1"
+      }
+    },
+    {
+      "cert_id": "m2_slice_bregman_eq8_3x3",
+      "mode": "quadratic_slice_bregman_cert",
+      "mean_ms": 1.687,
+      "summary": {
+        "verified": true,
+        "mode": "quadratic_slice_bregman_cert",
+        "tau_w": "1/4",
+        "hollow_energy": "3/1024",
+        "bregman_div": "17/16",
+        "commutator_gap": "18"
+      }
+    },
+    {
+      "cert_id": "m2_slice_bregman_rademacher_zero",
+      "mode": "quadratic_slice_bregman_cert",
+      "mean_ms": 0.999,
+      "summary": {
+        "verified": true,
+        "mode": "quadratic_slice_bregman_cert",
+        "tau_w": "3/4",
+        "hollow_energy": "0",
+        "bregman_div": "0",
+        "commutator_gap": "0"
+      }
+    },
+    {
+      "cert_id": "m2_slice_bregman_hadamard4_4x4",
+      "mode": "quadratic_slice_bregman_cert",
+      "mean_ms": 0.901,
+      "summary": {
+        "verified": true,
+        "mode": "quadratic_slice_bregman_cert",
+        "tau_w": "3/4",
+        "hollow_energy": "9/128",
+        "bregman_div": "1",
+        "commutator_gap": "13"
+      }
+    },
+    {
+      "cert_id": "m3_rect_eq8_zero_block",
+      "mode": "monochromatic_rank_split_cert",
+      "mean_ms": 0.099,
+      "summary": {
+        "verified": true,
+        "mode": "monochromatic_rank_split_cert",
+        "rank_M": 8,
+        "rank_split": "4+4<=9",
+        "density": "1/4",
+        "balanced_depth_ub": 14
+      }
+    },
+    {
+      "cert_id": "m3_rect_disj3_8x8",
+      "mode": "monochromatic_rank_split_cert",
+      "mean_ms": 0.293,
+      "summary": {
+        "verified": true,
+        "mode": "monochromatic_rank_split_cert",
+        "rank_M": 8,
+        "rank_split": "4+4<=9",
+        "density": "1/4",
+        "balanced_depth_ub": 18
+      }
+    },
+    {
+      "cert_id": "m3_rect_one_block_12x12",
+      "mode": "monochromatic_rank_split_cert",
+      "mean_ms": 0.299,
+      "summary": {
+        "verified": true,
+        "mode": "monochromatic_rank_split_cert",
+        "rank_M": 12,
+        "rank_split": "4+4<=13",
+        "density": "1/9",
+        "balanced_depth_ub": 22
+      }
+    },
+    {
+      "cert_id": "m3_rect_gt4_16x16",
+      "mode": "monochromatic_rank_split_cert",
+      "mean_ms": 1.729,
+      "summary": {
+        "verified": true,
+        "mode": "monochromatic_rank_split_cert",
+        "rank_M": 15,
+        "rank_split": "7+7<=16",
+        "density": "1/4",
+        "balanced_depth_ub": 18
+      }
+    },
+    {
+      "cert_id": "m4_nw_cogentic_thm11_canonical",
+      "mode": "nw_recursion_and_penalty_cert",
+      "mean_ms": 0.323,
+      "summary": {
+        "verified": true,
+        "mode": "nw_recursion_and_penalty_cert",
+        "C_prime": 178500,
+        "max_g_prime": "-1",
+        "min_midpoint_excess": "1/256",
+        "orbit_lengths": [
+          1,
+          5,
+          12,
+          21,
+          36,
+          45
+        ]
+      }
+    },
+    {
+      "cert_id": "m4_nw_fine_penalty_grid_17pts",
+      "mode": "nw_recursion_and_penalty_cert",
+      "mean_ms": 1.846,
+      "summary": {
+        "verified": true,
+        "mode": "nw_recursion_and_penalty_cert",
+        "C_prime": 178500,
+        "max_g_prime": "-1",
+        "min_midpoint_excess": "1/1024",
+        "orbit_lengths": [
+          3,
+          7,
+          16,
+          26
+        ]
+      }
+    },
+    {
+      "cert_id": "m4_nw_high_rank_orbit_1e9",
+      "mode": "nw_recursion_and_penalty_cert",
+      "mean_ms": 0.127,
+      "summary": {
+        "verified": true,
+        "mode": "nw_recursion_and_penalty_cert",
+        "C_prime": 178500,
+        "max_g_prime": "-1",
+        "min_midpoint_excess": "1/64",
+        "orbit_lengths": [
+          21,
+          37,
+          53,
+          69
+        ]
+      }
+    },
+    {
+      "cert_id": "m4_nw_unit_C0_propa3_exact",
+      "mode": "nw_recursion_and_penalty_cert",
+      "mean_ms": 0.119,
+      "summary": {
+        "verified": true,
+        "mode": "nw_recursion_and_penalty_cert",
+        "C_prime": 750,
+        "max_g_prime": "-1",
+        "min_midpoint_excess": "1/36",
+        "orbit_lengths": [
+          1,
+          2,
+          3,
+          5,
+          13,
+          29
+        ]
+      }
+    }
+  ]
+}

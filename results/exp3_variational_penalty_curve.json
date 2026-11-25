@@ -1,0 +1,172 @@
+{
+  "rows": [
+    {
+      "t_exact": "-1",
+      "t_val": -1.0,
+      "g_exact": "3",
+      "g_val": 3.0,
+      "g_prime_exact": "-1",
+      "g_prime_val": -1.0
+    },
+    {
+      "t_exact": "-9/10",
+      "t_val": -0.9,
+      "g_exact": "1159/400",
+      "g_val": 2.8975,
+      "g_prime_exact": "-21/20",
+      "g_prime_val": -1.05
+    },
+    {
+      "t_exact": "-4/5",
+      "t_val": -0.8,
+      "g_exact": "279/100",
+      "g_val": 2.79,
+      "g_prime_exact": "-11/10",
+      "g_prime_val": -1.1
+    },
+    {
+      "t_exact": "-7/10",
+      "t_val": -0.7,
+      "g_exact": "1071/400",
+      "g_val": 2.6775,
+      "g_prime_exact": "-23/20",
+      "g_prime_val": -1.15
+    },
+    {
+      "t_exact": "-3/5",
+      "t_val": -0.6,
+      "g_exact": "64/25",
+      "g_val": 2.56,
+      "g_prime_exact": "-6/5",
+      "g_prime_val": -1.2
+    },
+    {
+      "t_exact": "-1/2",
+      "t_val": -0.5,
+      "g_exact": "39/16",
+      "g_val": 2.4375,
+      "g_prime_exact": "-5/4",
+      "g_prime_val": -1.25
+    },
+    {
+      "t_exact": "-2/5",
+      "t_val": -0.4,
+      "g_exact": "231/100",
+      "g_val": 2.31,
+      "g_prime_exact": "-13/10",
+      "g_prime_val": -1.3
+    },
+    {
+      "t_exact": "-3/10",
+      "t_val": -0.3,
+      "g_exact": "871/400",
+      "g_val": 2.1775,
+      "g_prime_exact": "-27/20",
+      "g_prime_val": -1.35
+    },
+    {
+      "t_exact": "-1/5",
+      "t_val": -0.2,
+      "g_exact": "51/25",
+      "g_val": 2.04,
+      "g_prime_exact": "-7/5",
+      "g_prime_val": -1.4
+    },
+    {
+      "t_exact": "-1/10",
+      "t_val": -0.1,
+      "g_exact": "759/400",
+      "g_val": 1.8975,
+      "g_prime_exact": "-29/20",
+      "g_prime_val": -1.45
+    },
+    {
+      "t_exact": "0",
+      "t_val": 0.0,
+      "g_exact": "7/4",
+      "g_val": 1.75,
+      "g_prime_exact": "-3/2",
+      "g_prime_val": -1.5
+    },
+    {
+      "t_exact": "1/10",
+      "t_val": 0.1,
+      "g_exact": "639/400",
+      "g_val": 1.5975,
+      "g_prime_exact": "-31/20",
+      "g_prime_val": -1.55
+    },
+    {
+      "t_exact": "1/5",
+      "t_val": 0.2,
+      "g_exact": "36/25",
+      "g_val": 1.44,
+      "g_prime_exact": "-8/5",
+      "g_prime_val": -1.6
+    },
+    {
+      "t_exact": "3/10",
+      "t_val": 0.3,
+      "g_exact": "511/400",
+      "g_val": 1.2775,
+      "g_prime_exact": "-33/20",
+      "g_prime_val": -1.65
+    },
+    {
+      "t_exact": "2/5",
+      "t_val": 0.4,
+      "g_exact": "111/100",
+      "g_val": 1.11,
+      "g_prime_exact": "-17/10",
+      "g_prime_val": -1.7
+    },
+    {
+      "t_exact": "1/2",
+      "t_val": 0.5,
+      "g_exact": "15/16",
+      "g_val": 0.9375,
+      "g_prime_exact": "-7/4",
+      "g_prime_val": -1.75
+    },
+    {
+      "t_exact": "3/5",
+      "t_val": 0.6,
+      "g_exact": "19/25",
+      "g_val": 0.76,
+      "g_prime_exact": "-9/5",
+      "g_prime_val": -1.8
+    },
+    {
+      "t_exact": "7/10",
+      "t_val": 0.7,
+      "g_exact": "231/400",
+      "g_val": 0.5775,
+      "g_prime_exact": "-37/20",
+      "g_prime_val": -1.85
+    },
+    {
+      "t_exact": "4/5",
+      "t_val": 0.8,
+      "g_exact": "39/100",
+      "g_val": 0.39,
+      "g_prime_exact": "-19/10",
+      "g_prime_val": -1.9
+    },
+    {
+      "t_exact": "9/10",
+      "t_val": 0.9,
+      "g_exact": "79/400",
+      "g_val": 0.1975,
+      "g_prime_exact": "-39/20",
+      "g_prime_val": -1.95
+    },
+    {
+      "t_exact": "1",
+      "t_val": 1.0,
+      "g_exact": "0",
+      "g_val": 0.0,
+      "g_prime_exact": "-2",
+      "g_prime_val": -2.0
+    }
+  ]
+}

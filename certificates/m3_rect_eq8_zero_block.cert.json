@@ -1,0 +1,108 @@
+{
+  "schema": "LOGRANK-COGENTIC-CERT-1.0",
+  "mode": "monochromatic_rank_split_cert",
+  "cert_id": "m3_rect_eq8_zero_block",
+  "m": 8,
+  "n": 8,
+  "matrix_M": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "rect_rows_A": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "rect_cols_B": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "mono_value": 0,
+  "protocol_leaves_L": 15,
+  "claimed_rank_M": 8,
+  "claimed_rank_ABc": 4,
+  "claimed_rank_AcB": 4,
+  "claimed_rect_density": "1/4",
+  "claimed_balanced_depth_ub": 14
+}

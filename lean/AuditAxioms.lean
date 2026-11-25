@@ -1,0 +1,20 @@
+import CogenticLogRank
+
+#print axioms CogenticLogRank.sign_matrix_booleanity_identity
+#print axioms CogenticLogRank.eq16_pointwise_boolean_quadratic
+#print axioms CogenticLogRank.sec12_degree1_amgm_barrier
+#print axioms CogenticLogRank.sec12_degree2_cosh_lambda_cancel
+#print axioms CogenticLogRank.eq17_variational_penalty_concavity
+#print axioms CogenticLogRank.eq17_variational_penalty_slope
+#print axioms CogenticLogRank.eq22_bregman_sqrt_nonneg
+#print axioms CogenticLogRank.sec21_commutator_trace_identity_2x2
+#print axioms CogenticLogRank.lemma21_leverage_amgm_defect
+#print axioms CogenticLogRank.sec21_hermite_c2_variance_identity
+#print axioms CogenticLogRank.propa3_heavy_child_split_bounds
+#print axioms CogenticLogRank.propa3_log2_three_halves_bound
+#print axioms CogenticLogRank.propa3_protocol_depth_induction
+#print axioms CogenticLogRank.propa3_rank_split_min_le_three_quarters
+#print axioms CogenticLogRank.propa3_leaf_recurrence_induction
+#print axioms CogenticLogRank.propa3_geometric_ratio_bound
+#print axioms CogenticLogRank.propa3_nissan_wigderson_constant_750
+#print axioms CogenticLogRank.thm11_subsqrt_exponent_strictly_beats_half

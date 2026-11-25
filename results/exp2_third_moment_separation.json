@@ -1,0 +1,67 @@
+{
+  "rows": [
+    {
+      "bits": 2,
+      "n": 4,
+      "bias_exact": "1/2",
+      "bias_val": 0.5,
+      "bool_third_moment_exact": "3/2",
+      "bool_third_moment_val": 1.5,
+      "rademacher_third_moment_val": 0.0
+    },
+    {
+      "bits": 3,
+      "n": 8,
+      "bias_exact": "3/4",
+      "bias_val": 0.75,
+      "bool_third_moment_exact": "21/8",
+      "bool_third_moment_val": 2.625,
+      "rademacher_third_moment_val": 0.0
+    },
+    {
+      "bits": 4,
+      "n": 16,
+      "bias_exact": "7/8",
+      "bias_val": 0.875,
+      "bool_third_moment_exact": "105/32",
+      "bool_third_moment_val": 3.28125,
+      "rademacher_third_moment_val": 0.0
+    },
+    {
+      "bits": 5,
+      "n": 32,
+      "bias_exact": "15/16",
+      "bias_val": 0.9375,
+      "bool_third_moment_exact": "465/128",
+      "bool_third_moment_val": 3.6328125,
+      "rademacher_third_moment_val": 0.0
+    },
+    {
+      "bits": 6,
+      "n": 64,
+      "bias_exact": "31/32",
+      "bias_val": 0.96875,
+      "bool_third_moment_exact": "1953/512",
+      "bool_third_moment_val": 3.814453125,
+      "rademacher_third_moment_val": 0.0
+    },
+    {
+      "bits": 7,
+      "n": 128,
+      "bias_exact": "63/64",
+      "bias_val": 0.984375,
+      "bool_third_moment_exact": "8001/2048",
+      "bool_third_moment_val": 3.90673828125,
+      "rademacher_third_moment_val": 0.0
+    },
+    {
+      "bits": 8,
+      "n": 256,
+      "bias_exact": "127/128",
+      "bias_val": 0.9921875,
+      "bool_third_moment_exact": "32385/8192",
+      "bool_third_moment_val": 3.9532470703125,
+      "rademacher_third_moment_val": 0.0
+    }
+  ]
+}

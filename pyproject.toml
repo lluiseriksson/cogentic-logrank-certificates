@@ -1,0 +1,11 @@
+[project]
+name = "cogentic-logrank-certificates"
+version = "1.0.0"
+description = "Constructive Lean 4.35.0 kernel and exact-Q certificate auditor for Google Research Cogentic's O(r^(1/2 - 5e-6)) Log-Rank Conjecture breakthrough"
+authors = [{ name = "Lluis Eriksson" }]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-p no:cacheprovider"
